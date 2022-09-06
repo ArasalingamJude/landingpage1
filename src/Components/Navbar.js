@@ -18,10 +18,10 @@ export default function Navbar() {
           <a href="www.google.com">Home</a>
         </li>
         <li className="menu-list-item px-2">
-          <a href="www.google.com">Profile</a>
+          <a href="www.google.com">About</a>
         </li>
         <li className="menu-list-item px-2">
-          <a href="www.google.com">Settings</a>
+          <a href="www.google.com">Members</a>
         </li>
       </ul>
 
@@ -45,10 +45,10 @@ function SideMenu() {
           <a href="www.google.com">Home</a>
         </li>
         <li className="menu-list-item py-2 hover:bg-white hover:text-blue-700">
-          <a href="www.google.com">Profile</a>
+          <a href="www.google.com">About</a>
         </li>
         <li className="menu-list-item py-2 hover:bg-white hover:text-blue-700">
-          <a href="www.google.com">Settings</a>
+          <a href="www.google.com">Members</a>
         </li>
       </ul>
     </div>
